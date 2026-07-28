@@ -1,10 +1,6 @@
 # Count Distinct Strings via Non-Adjacent Swaps
+![Medium](https://img.shields.io/badge/Level-Medium-yellow?style=for-the-badge) ![Google OA](https://img.shields.io/badge/Source-Google%20OA%202025-blue?style=for-the-badge) ![IIT BHU Intern](https://img.shields.io/badge/Company-IIT%20BHU%20Intern-green?style=for-the-badge) ![Strings](https://img.shields.io/badge/Topic-Strings%20%26%20DP-purple?style=for-the-badge)
 
-**Difficulty:** Medium  
-**Source:** Google OA 2025 · IIT BHU Intern  
-**Topics:** Strings, Dynamic Programming, Combinatorics  
-
----
 
 ## Problem Description
 
